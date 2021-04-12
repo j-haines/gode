@@ -10,7 +10,7 @@ import (
 
 	"github.com/apex/log"
 	"github.com/dlclark/regexp2"
-	"github.com/meanguy/gode/src/files"
+	"github.com/j-haines/gode/src/files"
 	"github.com/sergi/go-diff/diffmatchpatch"
 )
 

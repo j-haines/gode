@@ -76,7 +76,7 @@ max-same-issues = 0
 
 linter-settings = {
     gci = {
-        local-prefixes = "github.com/meanguy/gode"},
+        local-prefixes = "github.com/j-haines/gode"},
     nolintlint = {
         allow-leading-space = false,
         allow-unused = false,

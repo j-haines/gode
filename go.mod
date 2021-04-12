@@ -1,4 +1,4 @@
-module github.com/meanguy/gode
+module github.com/j-haines/gode
 
 go 1.16
 
